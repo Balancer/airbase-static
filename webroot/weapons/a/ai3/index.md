@@ -4,7 +4,6 @@ Tags: Raytheon, AI3, ПРО, США
 
 # Raytheon Accelerated Improved Intercept Initiative (AI3)
 
-
 ## Новости
 
 [News](news/)
