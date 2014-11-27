@@ -3,4 +3,5 @@
 
 ## Новости
 
-(News)[news/]
+[News](news/)
+
