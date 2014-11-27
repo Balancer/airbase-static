@@ -1,6 +1,8 @@
+---
 Date: 2014-11-27 13:58:05.865744531 +0300
 Author: Balancer <balancer@balancer.ru>
 Tags: новости, Raytheon, AI3, ПРО
+---
 
 # Raytheon разработает противоракетный комплекс для Армии США
 
