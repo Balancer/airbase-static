@@ -1,11 +1,12 @@
 ---
-Date: 2014-11-27 13:54:55.536800737 +0300
+Date: 2014-12-01 02:30 +0300
 Author: Balancer <balancer@balancer.ru>
-Tags: Raytheon, AI3, ПРО, США
+Tags: авиация, КНР, БПЛА, Dark Sword
 ---
 
-# Raytheon Accelerated Improved Intercept Initiative (AI3)
+# Dark Sword
 
-## Новости
+Проект китайского сверхзвукового БПЛА.
 
-[News](news/)
+### Новости
+* [Китайский стелс-бла Dark Sword](http://forums.airbase.ru/2014/12/t90575--kitajskij-stels-bla-dark-sword.8880.html)
