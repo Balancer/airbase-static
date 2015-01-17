@@ -9,4 +9,4 @@ Tags: авиация, КНР, БПЛА, Dark Sword
 Проект китайского сверхзвукового БПЛА.
 
 ### Новости
-* [Китайский стелс-бла Dark Sword](http://forums.airbase.ru/2014/12/t90575--kitajskij-stels-bla-dark-sword.8880.html)
+* [Китайский стелс-БПЛА Dark Sword](http://forums.airbase.ru/2014/12/t90575--kitajskij-stels-bla-dark-sword.8880.html)
