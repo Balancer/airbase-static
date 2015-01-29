@@ -1,2 +1,1 @@
-﻿* Починить избранное. http://www.balancer.ru/g/p3724738
-
+* Починить избранное. http://www.balancer.ru/g/p3724738
