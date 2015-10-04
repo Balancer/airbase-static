@@ -1,5 +1,8 @@
 ---
 Date: 2015-10-04 11:19:26 +0300
+Author: Balancer <balancer@balancer.ru>
+Tags: авиация, техника, вертолёты, Россия, Миль, Ми-8, Ми-8ППА, фото
+nav_name: фотографии
 ---
 
 <style>
