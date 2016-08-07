@@ -3,6 +3,7 @@ Date: 2015-10-04 11:19:26 +0300
 Author: Balancer <balancer@balancer.ru>
 Tags: авиация, техника, вертолёты, Россия, Миль, Ми-8, Ми-8ППА, фото
 nav_name: фотографии
+
 ---
 
 <style>
@@ -14,9 +15,13 @@ img {
 # Фотогалерея Ми-8ППА
 
 ![](Mi-8PPA-Hip-K-01.jpg)
+
 ![](Mi-8PPA-Hip-K-02.jpg)
+
 ![](Mi-8PPA-Hip-K-03.jpg)
+
 ![](Mi-8PPA-Hip-K-04.jpg)
+
 ![](Mi-8PPA-Hip-K-05.jpg)
 
 // Источник: http://bemil.chosun.com/nbrd/gallery/view.html?b_bbs_id=10044&num=98494
@@ -28,4 +33,3 @@ img {
 ![](Mi-8PPA-Hip-K-07.jpg)
 
 // Фото: Михаил Мизикаев, источник: https://plus.googleapis.com/photos/102549610567855022047/albums/6007309865580100897
-
