@@ -20,8 +20,8 @@ nav_name: «Хибины»
 * ухудшения характеристик режима сопровождения «на проходе» при сканировании луча антенны БРЛС;
 * увеличения времени и затруднение захвата объекта при переходе в режим непрерывной радиопеленгации.
 
-![](/cache/hangar/russia/equipment/ecm/msp418k/640x640/IMG_2466_1024.JPG)
-![](/cache/hangar/russia/equipment/ecm/msp418k/640x640/IMG_2468_1024.JPG)
+![](http://www.airbase.ru/cache/hangar/russia/equipment/ecm/msp418k/640x640/IMG_2466_1024.JPG)
+![](http://www.airbase.ru/cache/hangar/russia/equipment/ecm/msp418k/640x640/IMG_2468_1024.JPG)
 
 ## Параметры
 
