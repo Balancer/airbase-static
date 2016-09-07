@@ -1,8 +1,7 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2014-01-31T08:38:34+04:00
+---
+Date: 2014-01-31T08:38:34+04:00
+---
 
-====== Авиатехника на «R» ======
-Created Friday 31 January 2014
+# Авиатехника на «R»
 
-* [[+rq-21a|Boeing Insitu RQ-21 Blackjack]]
+* [Boeing Insitu RQ-21 Blackjack](rq-21a)
