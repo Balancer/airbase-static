@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Balancer/airbase-static.png?label=ready&title=Ready)](https://waffle.io/Balancer/airbase-static)
 # Авиабаза
 
 Статические файлы сайта www.airbase.ru
