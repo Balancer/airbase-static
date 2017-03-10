@@ -24,3 +24,4 @@ XFV-1 — экспериментальный турбовинтовой само
 - http://www.balancer.ru/g/p1897236
 - http://www.balancer.ru/g/p2264864
 - http://www.balancer.ru/g/p4187264
+- http://igor113.livejournal.com/106857.html
